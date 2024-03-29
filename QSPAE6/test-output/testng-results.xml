@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-21T20:23:26 GMT-07:00" name="Suite" finished-at="2024-03-21T20:23:55 GMT-07:00" duration-ms="28833">
+    <groups>
+    </groups>
+    <test started-at="2024-03-21T20:23:26 GMT-07:00" name="Test" finished-at="2024-03-21T20:23:55 GMT-07:00" duration-ms="28833">
+      <class name="ecommerce.LaunchMeesho_Test">
+        <test-method signature="meesho()[pri:0, instance:ecommerce.LaunchMeesho_Test@47d90b9e]" started-at="2024-03-21T20:23:26 GMT-07:00" name="meesho" finished-at="2024-03-21T20:23:38 GMT-07:00" duration-ms="11458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meesho -->
+      </class> <!-- ecommerce.LaunchMeesho_Test -->
+      <class name="ecommerce.LaunchFlipkart_Test">
+        <test-method signature="flipkart()[pri:0, instance:ecommerce.LaunchFlipkart_Test@1184ab05]" started-at="2024-03-21T20:23:38 GMT-07:00" name="flipkart" finished-at="2024-03-21T20:23:44 GMT-07:00" duration-ms="6727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkart -->
+      </class> <!-- ecommerce.LaunchFlipkart_Test -->
+      <class name="ecommerce.LaunchAmazon_Test">
+        <test-method signature="amazon()[pri:0, instance:ecommerce.LaunchAmazon_Test@3aefe5e5]" started-at="2024-03-21T20:23:44 GMT-07:00" name="amazon" finished-at="2024-03-21T20:23:55 GMT-07:00" duration-ms="10577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon -->
+      </class> <!-- ecommerce.LaunchAmazon_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
